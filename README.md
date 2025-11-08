@@ -3,6 +3,7 @@
 A complete e-commerce website for selling fruit juices and dry fruits, built with Node.js, Express.js, MongoDB, and vanilla JavaScript.
 
 Repo Link: https://github.com/Amarnath202/Fresh-Harvest-e-commerce-platform
+Demo link: https://drive.google.com/file/d/1EE3eImZiURyS4EPSMPuo8rBTkXXiXkDG/view?usp=sharing
 
 ## 🌟 Features
 
